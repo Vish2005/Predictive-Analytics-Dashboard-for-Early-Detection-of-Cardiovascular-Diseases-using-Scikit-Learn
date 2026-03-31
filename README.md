@@ -1,4 +1,4 @@
-https://huggingface.co/spaces/vish2026/Multi-lingual-Sentiment-App
+#link for web page: https://huggingface.co/spaces/vish2026/Multi-lingual-Sentiment-App
 # 🧠 Multi-lingual Sentiment Intelligence Suite
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
