@@ -1,0 +1,24 @@
+# End of file
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv
+
+# VS Code environment
+.vscode/
+
+# Ignore large downloaded models, data, and cache
+models/
+data/
+.huggingface/
+.cache/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

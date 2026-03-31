@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+nltk
+fastapi
+uvicorn
+deep-translator
+jinja2
+python-multipart
+langdetect
+transformers
+torch
+lime
+scipy
