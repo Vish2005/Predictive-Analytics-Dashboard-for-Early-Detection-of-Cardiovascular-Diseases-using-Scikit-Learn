@@ -54,8 +54,12 @@ st.markdown("Enter your basic health details below to check your possible heart 
 
 # Ensure models are trained
 if not os.path.exists("models/rf_model.pkl"):
-    st.warning("Models not found! Please run `python train_model.py` first.")
-    st.stop()
+    with st.spinner("Initializing ML Models and Data (First-time setup)..."):
+        import train_model
+        train_model.download_data()
+        train_model.train_and_save_models()
+        st.success("Models initialized successfully!")
+        st.rerun()
 
 # Initialize Predictor
 @st.cache_resource
