@@ -5,7 +5,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E)
 ![SHAP](https://img.shields.io/badge/Explainable%20AI-SHAP-brightgreen)
 
-**🌐 Live Demo: [Launch the Dashboard on Streamlit Cloud](https://bmuhzvdfrpfwbbpzkoicxr.streamlit.app/)**
+**🌐 Live Demo: [Launch the Dashboard on Streamlit Cloud](https://4ii6gqreb2pkv55zpf4pts.streamlit.app/)**
 
 A professional, clinical-grade Explainable AI (XAI) web application designed to predict the risk of cardiovascular disease based on patient health metrics. The dashboard provides a dynamic, user-friendly interface that analyzes medical data against multiple trained ML models to deliver a heavily scrutinized risk assessment.
 
